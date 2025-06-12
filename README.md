@@ -126,7 +126,8 @@ streamlit run app.py
 
 🙌 Author
 Ritwik Mukherjee
-GitHub | LinkedIn
+[[GitHub](https://github.com/Ritaldojr7)) | [LinkedIn](https://www.linkedin.com/in/ritwik-mukherjee7/))
+
 
 ✨ Final Note
 This chatbot system is designed to be developer-friendly, scalable, and intelligent, supporting real-time interactions and multi-platform deployments for modern conversational AI applications.
