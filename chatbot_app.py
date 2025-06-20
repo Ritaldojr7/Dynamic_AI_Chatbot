@@ -11,7 +11,7 @@ from collections import defaultdict, Counter
 import random
 import time
 
-# Simulated NLP and ML components (in a real implementation, you'd use actual libraries)
+# Simulated NLP and ML components 
 class NLPProcessor:
     def __init__(self):
         # Intent patterns for rule-based recognition
